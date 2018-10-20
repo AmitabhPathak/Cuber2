@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "530415349565",
-    "firebase_url": "https://cuber5-ff6a3.firebaseio.com",
-    "project_id": "cuber5-ff6a3",
-    "storage_bucket": "cuber5-ff6a3.appspot.com"
+    "project_number": "project no",
+    "firebase_url": "url",
+    "project_id": "id",
+    "storage_bucket": "bucket"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:530415349565:android:c2951d2d7298b0b0",
+        "mobilesdk_app_id": "id",
         "android_client_info": {
           "package_name": "com.amitabh.cuber.cuber5"
         }
       },
       "oauth_client": [
         {
-          "client_id": "530415349565-p2hgve2c5hicstkl4ee0uhlioejl0g08.apps.googleusercontent.com",
+          "client_id": "id",
           "client_type": 1,
           "android_info": {
             "package_name": "com.amitabh.cuber.cuber5",
-            "certificate_hash": "3225bc2c4558479a73eb8be93b13a5ef99381879"
+            "certificate_hash": "hash"
           }
         },
         {
-          "client_id": "530415349565-p3fce4v13dalrejvgtp5i6rel2dbangu.apps.googleusercontent.com",
+          "client_id": "id",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB_GN0eh2RcjINCWWCH-7m9b8aibE_siq0"
+          "current_key": "key"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "530415349565-p3fce4v13dalrejvgtp5i6rel2dbangu.apps.googleusercontent.com",
+              "client_id": "id",
               "client_type": 3
             }
           ]
